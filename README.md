@@ -1,11 +1,11 @@
 # So_Long
 
-В файле en.subject.pdf - задание.
-
-P.S. Это учебные работы, они были ограниченны определенными условиями и правилами написания кода. Поэтому не удивляйтесь, что все выводится через write или везде используется цикл while и пр. =)
+Subject is in the file en.subject.pdf.
 
 The project uses personal [library](https://github.com/Anastsiia/libft) and [function](https://github.com/Anastsiia/get-next-line) implemented in previous projects
 All the visualization is done with the help of the [MiniLibX](https://github.com/42Paris/minilibx-linux) library.
+
+P.S. These are educational works, they were limited by certain conditions and rules for writing code. Therefore, do not be surprised that everything is output through write or the while loop is used everywhere, etc. =)
 
 ![Screenshot](Screenshot.jpg)
 
